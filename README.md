@@ -1,16 +1,13 @@
-## Hi there 👋
+<h3>Hi there! 👋</h3>
 
-<!--
-**kamikadzze/kamikadzze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stack 👨‍💻	
 
-Here are some ideas to get you started:
+![PHP](https://img.shields.io/badge/-PHP-%230075a8?logo=php&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) ![C#](https://img.shields.io/badge/-C%23-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-%23ea4f32?logo=git&logoColor=white&style=flat-square) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me 💭
+- <a href="https://t.me/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram (preferred)</a>
+- <a href="mailto:*****@gmail.com">📩 E-mail: `*****@gmail.com`</a>
+
+## Stats 📊
+<img src="https://gpvc.arturio.dev/kamikadzze" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=kamikadzze&show_icons=true&count_private=true&theme=material-palenight">
